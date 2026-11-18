@@ -1,50 +1,75 @@
 ---
-weight: 10
+weight: 1
+bookFlatSection: true
 title: General
-bookHidden: false
-bookFlatSection: false
 ---
-# General Course Policies
 
-## Campus participation and course materials
+# General
 
-Participate in scheduled campus class meetings and use the assigned materials to prepare and review. Class participation is worth 5% of your course grade. Attend campus class meetings and take an active part: ask a question about the material, explain your reasoning during an exercise, or build on a classmate’s idea. You can also earn participation credit on Ed when the teaching team explicitly marks a thread or post as counting toward class participation. On those threads, contribute an explanation, a question about the topic, or a response that helps a classmate. There is no general Ed posting quota. Study the assigned videos and notes, complete assessments within their availability windows, and work on both the individual and team projects. The schedule also links interactive visualizations and demonstrations when available.
+## Attendance
 
-Course-created videos, notes, assessment questions, and code are for enrolled students. Do not redistribute them outside the course without written permission.
+Our class will be offered on campus for both Undergrad (4641) and Grad (7641). Lectures might be recorded IF class has the recording system. Any class that I am able to record [which sometimes does not work even if we have the recording system in place], I will make it available to all students (both undergrad and grad) by the end of the day. The attendance is required for both undergrad and grad. Having students in the class helps me and my students A LOT work with each other for a better environment to facilitate learning. Trust me it will be fun and you will give me a lot of energy to teach better. The fact that you need to listen to the lectures without fast-forwarding me can help you learn the materials much better and you will have the chance to ask questions if you are confused anywhere in the lectures. Also, **the class attendance will be counted toward your class participation at the end of semester.**
 
-## Course platforms
+## Class Deliverables
 
-- **Canvas** hosts lecture modules, quizzes, the midterm exam, and the gradebook. Canvas timestamps control Canvas assessment submissions.
-- **[ML Class Hub](https://ml-class.cc.gatech.edu/)** manages project teams, project links and submissions, accommodation-document intake, and the [midterm reference-sheet PDF](https://ml-class.cc.gatech.edu/midterm/reference-sheet/).
-- **[Ed Discussion](../ed-discussion/)** is the official announcement and course-question channel. Its page explains notifications, public and private posts, and assessment-discussion limits.
+All class deliverables will be handled via Gradescope except quizzes which will be on Canvas. The time span offered to complete the course objectives is plentiful and deadlines will not be extended under any circumstances. To ensure the class is fair for all students, you will receive zero credit for work submitted after the deadline. Regrade requests should be submitted directly on Gradescope within a defined period after grade publication (we will inform you on that; we only provide a 3 day for the regrade request). Should you find yourself in an impasse with the TA responsible for your grading, feel free to contact the head TA or course instructor on Edstem.
 
-## Deadlines and time zones
+## Edstem
 
-**Unless a different time or time zone is explicitly stated, website deadlines are 11:59 PM Anywhere on Earth (AoE, UTC-12) on the listed date.** AoE means the date has ended everywhere on Earth. It is one fixed worldwide deadline, not 11:59 PM in your own time zone. AoE stays at UTC-12 all year and does not observe daylight saving time.
+Edstem will be the main and only place for the course discussions and announcements. If you have questions, please ask it on Edstem first because 1) other students may have the same question; 2) you will get help much faster.
 
-For illustration only, these are equivalent times for two hypothetical deadlines:
+- For public homework specific questions, PLEASE use the appropriate TA created mega threads instead of creating a new individual thread.
+- If it’s something you do not like to discuss publicly on Edstem, you can create a private post on Edstem.
+- If the issue you want to discuss is sensitive or you are not comfortable discussing with the whole teaching team in a private post, please create a private post asking us to create a private chat. Either Mahdi or one of the Head TAs will create a private chat for you.
+- **Edstem GOOD questions:**
+  - "I don’t understand this part of the lecture, can you explain it to me?"
+  - "This certain part of the hw is not clear to me, would it be possible to explain that more?"
+  - "I have a question about the project …"
+  - "I found an issue on the website, hw or the lectures, can you clarify …"
+  - "Any feedback, suggestions, … would be greatly appreciated."
+  - Historically, most of the questions were good!
+- **Edstem BAD questions**:
+  - "Can you debug my code?"
+  - "Can you find where the problem is in my code?"
+  - Our team will not do that. You need to be specific about your question
 
-| Website deadline (AoE) | UTC equivalent | Atlanta local time (ET) |
-| --- | --- | --- |
-| February 14, 2027, 11:59 PM AoE | February 15, 2027, 11:59 AM UTC | February 15, 2027, 6:59 AM EST |
-| March 21, 2027, 11:59 PM AoE | March 22, 2027, 11:59 AM UTC | March 22, 2027, 7:59 AM EDT |
+## Exceptional Circumstances
 
-**Pay close attention to daylight saving time (DST): your local conversion can change during the semester even though AoE does not.** Atlanta uses Eastern Standard Time (EST, UTC-5) in winter and Eastern Daylight Time (EDT, UTC-4) during DST. Under the current U.S. rules, clocks move forward on the second Sunday in March at 2:00 AM (2:00 AM becomes 3:00 AM) and back on the first Sunday in November at 2:00 AM (2:00 AM becomes 1:00 AM). In 2027, those dates are **March 14** and **November 7**. Other countries may change clocks on different dates or not at all. Convert each deadline using the time zone and daylight saving rules in effect on that date; do not reuse a fixed offset throughout the term.
+Any request for exceptions to these policies should be made in advance when at all possible. Requests should be due to incapacitating illness, personal emergencies, or similarly serious events. Your request **MUST** be accompanied by a supporting letter issued by the [Dean of Students](https://studentlife.gatech.edu/request-assistance) before contacting us. Once you acquired the letter, please go this Ed Discussion post and fill out the form and ping us on Ed Discussion using a private post that you filled out the form.
 
-**Canvas assessments follow the exact due date and availability closing time shown in Canvas.** Canvas may display those times in your account's time zone. The website's AoE convention does not extend a Canvas availability window. Check the date, time zone, due time, and closing time before starting an attempt, and submit before the applicable deadline. You are responsible for checking and converting all deadlines carefully, especially around clock changes. The course [schedule](../../course-info/course-schedule-mahdi/) lists weekly dates.
+**The supporting letter from the Dean of Students should be delivered within a week of the assignment due date in order for us to issue accommodations. If the assignment was due over a week ago, we won't be able to issue accommodations for the assignment.**
 
-## Academic integrity and generative AI
+## AI-Based Assistance
 
-The [Georgia Tech Academic Honor Code](https://policylibrary.gatech.edu/student-life/academic-honor-code) applies to all work. Quizzes and the midterm must be completed independently without generative AI or unauthorized assistance; see [Quizzes and Exams](../../grading/qquizzes-and-exams/) for permitted materials. Collaboration within a registered team and disclosed use of generative AI are allowed for the projects under the [project rules](../../grading/project-breakdown/). The individual project must represent the student's own understanding.
+We are using the AI assistant policy developed by [David Joyner](https://www.cc.gatech.edu/news/new-policies-navigate-role-ai-assistants-cs-courses) and shared by other classes at Georgia Tech ([CS 7643 Deep Learning](https://faculty.cc.gatech.edu/~zk15/teaching/AY2024_cs7643_spring/#ai-based-assistance)). The summary is that you should treat your AI source like a human source, with all accompanying plagiarism implications:
 
-For either project, disclose each AI tool, its purpose, and the scope of its contribution. Verify generated code, text, data, results, and references. Do not put sensitive, protected, regulated, confidential, licensed, or personally identifiable information into an AI system. Every citation must identify a real source that you reviewed and that supports the cited claim. Do not fabricate sources or results. Suspected violations are referred to the Georgia Tech Office of Student Integrity; that office determines responsibility under Institute procedures.
+*We treat AI-based assistance, such as ChatGPT and Copilot, the same way we treat collaboration with other people: you are welcome to talk about your ideas and work with other people, both inside and outside the class, as well as with AI-based assistants.*  
 
-## Accommodations and exceptional circumstances
+*However, all work you submit must be your own. You should never include in your assignment anything that was not written directly by you without proper citation (including quotation marks and in-line citation for direct quotes).* 
 
-Disability accommodations require approval through the [Office of Disability Services](https://disabilityservices.gatech.edu/) and an official Faculty Notification Letter. Request that the letter be sent through the Institute process, then submit the ODS request and PDF in [ML Class Hub Accommodations](https://ml-class.cc.gatech.edu/accommodations/) for course-team verification. A student-uploaded copy alone does not grant approval.
+*Including anything you did not write in your assignment without proper citation will be treated as an academic misconduct case. If you are unsure where the line is between collaborating with AI and copying AI, we recommend the following heuristics:* 
 
-For an exceptional circumstance or assessment make-up, first use the [Dean of Students Request Assistance process](https://studentlife.gatech.edu/request-assistance). Upload the official notification as a PDF in ML Class Hub Accommodations; an official email may be saved or printed to PDF. Then notify your assigned mentor through a private Ed post identifying the affected requirement; follow the [contact instructions](../ed-discussion/#contact-your-mentor-through-ed-discussion). Do not send medical records or diagnoses to course staff or Ed. An informal message alone does not approve a make-up. Contact the Institute and course team promptly; a letter received more than one week after the affected deadline cannot support a retroactive course exception under the current policy.
+*Heuristic 1: Never hit “Copy” within your conversation with an AI assistant. You can copy your own work into your own conversation, but do not copy anything from the conversation back into your assignment.*  
 
-## Regrades and changes
+*Instead, use your interaction with the AI assistant as a learning experience, then let your assignment reflect your improved understanding.*  
 
-Follow the instructions and deadline published with an assessment for a specific grading correction. A full regrade can raise, leave unchanged, or lower the score. Course-wide changes are announced on Ed and reflected in the relevant course page or Canvas item.
+*Heuristic 2: Do not have your assignment and the AI agent open at the same time. Similar to the above, use your conversation with the AI as a learning experience, then close the interaction down, open your assignment, and let your assignment reflect your revised knowledge.* 
+
+*This heuristic includes avoiding using AI directly integrated into your composition environment: just as you should not let a classmate write content or code directly into your submission, so also you should avoid using tools that directly add content to your submission.* 
+
+*Deviating from these heuristics does not automatically qualify as academic misconduct; however, following these heuristics essentially guarantees your collaboration will not cross the line into misconduct.*
+
+## Accommodations for Students with Disabilities
+If you are a student with learning needs that require special accommodation, contact the [Office of Disability 
+Services](https://disabilityservices.gatech.edu) (404-894-2563) as soon as possible to make an appointment to discuss your special needs and to obtain an accommodations letter.
+
+## Academic Integrity
+
+- All learners are expected to know and abide by the Georgia Tech Academic Honor Code and the student Code of Conduct.
+- Ethical behavior is extremely important in all facets of life.
+{{< hint danger >}}
+1. Plagiarism is a serious offense. You are responsible for completing your own work. You are not allowed to copy and paste, or paraphrase, or submit materials created or published by others, as if you created the materials. All materials submitted must be your own.
+2. You may discuss high-level ideas with other students at the "whiteboard" level (e.g., how cross validation works, use hashmap instead of array) and review any relevant materials online. However, each student must write up and submit his or her own answers.
+3. You must not put your code on public domain (e.g., public GitHub), because a (future) student could copy your code. That student obviously violates the honor code, and you may also be implicated.
+4. All incidents of suspected dishonesty, plagiarism, or violations of the [Georgia Tech Honor Code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code) will be subject to the institute’s Academic Integrity procedures (e.g., reported to and directly handled by the [Office of Student Integrity (OSI))](http://osi.gatech.edu/). Consequences can be severe, e.g., academic probation or dismissal, grade penalties, a 0 grade for assignments concerned, and prohibition from withdrawing from the class.
+{{< /hint >}}
