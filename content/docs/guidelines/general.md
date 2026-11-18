@@ -1,0 +1,50 @@
+---
+weight: 10
+title: General
+bookHidden: false
+bookFlatSection: false
+---
+# General Course Policies
+
+## Campus participation and course materials
+
+Participate in scheduled campus class meetings and use the assigned materials to prepare and review. Class participation is worth 5% of your course grade. Attend campus class meetings and take an active part: ask a question about the material, explain your reasoning during an exercise, or build on a classmate’s idea. You can also earn participation credit on Ed when the teaching team explicitly marks a thread or post as counting toward class participation. On those threads, contribute an explanation, a question about the topic, or a response that helps a classmate. There is no general Ed posting quota. Study the assigned videos and notes, complete assessments within their availability windows, and work on both the individual and team projects. The schedule also links interactive visualizations and demonstrations when available.
+
+Course-created videos, notes, assessment questions, and code are for enrolled students. Do not redistribute them outside the course without written permission.
+
+## Course platforms
+
+- **Canvas** hosts lecture modules, quizzes, the midterm exam, and the gradebook. Canvas timestamps control Canvas assessment submissions.
+- **[ML Class Hub](https://ml-class.cc.gatech.edu/)** manages project teams, project links and submissions, accommodation-document intake, and the [midterm reference-sheet PDF](https://ml-class.cc.gatech.edu/midterm/reference-sheet/).
+- **[Ed Discussion](../ed-discussion/)** is the official announcement and course-question channel. Its page explains notifications, public and private posts, and assessment-discussion limits.
+
+## Deadlines and time zones
+
+**Unless a different time or time zone is explicitly stated, website deadlines are 11:59 PM Anywhere on Earth (AoE, UTC-12) on the listed date.** AoE means the date has ended everywhere on Earth. It is one fixed worldwide deadline, not 11:59 PM in your own time zone. AoE stays at UTC-12 all year and does not observe daylight saving time.
+
+For illustration only, these are equivalent times for two hypothetical deadlines:
+
+| Website deadline (AoE) | UTC equivalent | Atlanta local time (ET) |
+| --- | --- | --- |
+| February 14, 2027, 11:59 PM AoE | February 15, 2027, 11:59 AM UTC | February 15, 2027, 6:59 AM EST |
+| March 21, 2027, 11:59 PM AoE | March 22, 2027, 11:59 AM UTC | March 22, 2027, 7:59 AM EDT |
+
+**Pay close attention to daylight saving time (DST): your local conversion can change during the semester even though AoE does not.** Atlanta uses Eastern Standard Time (EST, UTC-5) in winter and Eastern Daylight Time (EDT, UTC-4) during DST. Under the current U.S. rules, clocks move forward on the second Sunday in March at 2:00 AM (2:00 AM becomes 3:00 AM) and back on the first Sunday in November at 2:00 AM (2:00 AM becomes 1:00 AM). In 2027, those dates are **March 14** and **November 7**. Other countries may change clocks on different dates or not at all. Convert each deadline using the time zone and daylight saving rules in effect on that date; do not reuse a fixed offset throughout the term.
+
+**Canvas assessments follow the exact due date and availability closing time shown in Canvas.** Canvas may display those times in your account's time zone. The website's AoE convention does not extend a Canvas availability window. Check the date, time zone, due time, and closing time before starting an attempt, and submit before the applicable deadline. You are responsible for checking and converting all deadlines carefully, especially around clock changes. The course [schedule](../../course-info/course-schedule-mahdi/) lists weekly dates.
+
+## Academic integrity and generative AI
+
+The [Georgia Tech Academic Honor Code](https://policylibrary.gatech.edu/student-life/academic-honor-code) applies to all work. Quizzes and the midterm must be completed independently without generative AI or unauthorized assistance; see [Quizzes and Exams](../../grading/qquizzes-and-exams/) for permitted materials. Collaboration within a registered team and disclosed use of generative AI are allowed for the projects under the [project rules](../../grading/project-breakdown/). The individual project must represent the student's own understanding.
+
+For either project, disclose each AI tool, its purpose, and the scope of its contribution. Verify generated code, text, data, results, and references. Do not put sensitive, protected, regulated, confidential, licensed, or personally identifiable information into an AI system. Every citation must identify a real source that you reviewed and that supports the cited claim. Do not fabricate sources or results. Suspected violations are referred to the Georgia Tech Office of Student Integrity; that office determines responsibility under Institute procedures.
+
+## Accommodations and exceptional circumstances
+
+Disability accommodations require approval through the [Office of Disability Services](https://disabilityservices.gatech.edu/) and an official Faculty Notification Letter. Request that the letter be sent through the Institute process, then submit the ODS request and PDF in [ML Class Hub Accommodations](https://ml-class.cc.gatech.edu/accommodations/) for course-team verification. A student-uploaded copy alone does not grant approval.
+
+For an exceptional circumstance or assessment make-up, first use the [Dean of Students Request Assistance process](https://studentlife.gatech.edu/request-assistance). Upload the official notification as a PDF in ML Class Hub Accommodations; an official email may be saved or printed to PDF. Then notify your assigned mentor through a private Ed post identifying the affected requirement; follow the [contact instructions](../ed-discussion/#contact-your-mentor-through-ed-discussion). Do not send medical records or diagnoses to course staff or Ed. An informal message alone does not approve a make-up. Contact the Institute and course team promptly; a letter received more than one week after the affected deadline cannot support a retroactive course exception under the current policy.
+
+## Regrades and changes
+
+Follow the instructions and deadline published with an assessment for a specific grading correction. A full regrade can raise, leave unchanged, or lower the score. Course-wide changes are announced on Ed and reflected in the relevant course page or Canvas item.
